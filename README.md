@@ -44,6 +44,8 @@ Our goal is also to provide free support on the creating of content for clients,
 
 Our intension is to showcase the full potential of the Dart / Flutter ecosystem to develop solutions that are truly multi-platform, not only centred on mobile applications. But demonstrating that this ecosystem are the one to use for server-side, mobile applications and desktop applications.
 
-Our intension is to build awareness of the ecosystem by demonstrating this via content, demos and tools. All of this content, demos and tools will be open-sourced to enable businesses, corporates and industry to understand and see the benefits of Dart / Flutter.\n\nDart / Flutter is truly a “multi-platform” and not “cross-platform”
+Our intension is to build awareness of the ecosystem by demonstrating this via content, demos and tools. All of this content, demos and tools will be open-sourced to enable businesses, corporates and industry to understand and see the benefits of Dart / Flutter.
+
+Dart / Flutter is truly a “multi-platform” and not “cross-platform”
 
 We will also assist and pitch the new clients across the sphere the universal versatility of the Dart / Flutter ecosystem to take them to new places.
